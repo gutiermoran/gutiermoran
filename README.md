@@ -1,5 +1,5 @@
 <h1 align="center">¡Hi! 👋 my name is José Emilio</h1>
-<h3 align="center">I'm back-end developer; but I'm interested in front-end and AWS right now too.</h3>
+<h3 align="center">I'm a back-end developer, but I'm interested in front-end and AWS right now too.</h3>
 
 - 🌱 I’m currently learning **AWS**
 
