@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **AWS, Java, HTML, CSS, SQL**
+- 💬 Ask me about **AWS, Java, HTML, CSS, SQL, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
