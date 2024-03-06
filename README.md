@@ -1,5 +1,5 @@
-<h1 align="center">¡Hola! 👋 me llamo José Emilio</h1>
-<h3 align="center">Soy back-end developer, pero ahora mismo tengo interés también por el front-end y AWS.</h3>
+<h1 align="center">¡Hi! 👋 my name is José Emilio</h1>
+<h3 align="center">I'm back-end developer; but I'm interested in front-end and AWS right now too.</h3>
 
 - 🌱 I’m currently learning **AWS**
 
